@@ -1,0 +1,6 @@
+d:\Documents\Visual Studio 2015\Projects\Tech-CSharp\LadyBugs\bin\Debug\LadyBugs.exe.config
+d:\Documents\Visual Studio 2015\Projects\Tech-CSharp\LadyBugs\bin\Debug\LadyBugs.exe
+d:\Documents\Visual Studio 2015\Projects\Tech-CSharp\LadyBugs\bin\Debug\LadyBugs.pdb
+d:\Documents\Visual Studio 2015\Projects\Tech-CSharp\LadyBugs\obj\Debug\LadyBugs.csprojResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2015\Projects\Tech-CSharp\LadyBugs\obj\Debug\LadyBugs.exe
+d:\Documents\Visual Studio 2015\Projects\Tech-CSharp\LadyBugs\obj\Debug\LadyBugs.pdb

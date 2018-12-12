@@ -1,0 +1,6 @@
+d:\documents\visual studio 2015\Projects\Tech-CSharp\EqualSum\bin\Debug\EqualSum.exe.config
+d:\documents\visual studio 2015\Projects\Tech-CSharp\EqualSum\bin\Debug\EqualSum.exe
+d:\documents\visual studio 2015\Projects\Tech-CSharp\EqualSum\bin\Debug\EqualSum.pdb
+d:\documents\visual studio 2015\Projects\Tech-CSharp\EqualSum\obj\Debug\EqualSum.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\Tech-CSharp\EqualSum\obj\Debug\EqualSum.exe
+d:\documents\visual studio 2015\Projects\Tech-CSharp\EqualSum\obj\Debug\EqualSum.pdb

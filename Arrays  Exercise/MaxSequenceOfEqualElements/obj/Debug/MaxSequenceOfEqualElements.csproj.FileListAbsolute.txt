@@ -1,0 +1,6 @@
+d:\documents\visual studio 2015\Projects\Tech-CSharp\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe.config
+d:\documents\visual studio 2015\Projects\Tech-CSharp\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe
+d:\documents\visual studio 2015\Projects\Tech-CSharp\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.pdb
+d:\documents\visual studio 2015\Projects\Tech-CSharp\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\Tech-CSharp\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.exe
+d:\documents\visual studio 2015\Projects\Tech-CSharp\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.pdb

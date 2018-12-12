@@ -1,0 +1,6 @@
+d:\documents\visual studio 2015\Projects\Tech-CSharp\MagicSum\bin\Debug\MagicSum.exe.config
+d:\documents\visual studio 2015\Projects\Tech-CSharp\MagicSum\bin\Debug\MagicSum.exe
+d:\documents\visual studio 2015\Projects\Tech-CSharp\MagicSum\bin\Debug\MagicSum.pdb
+d:\documents\visual studio 2015\Projects\Tech-CSharp\MagicSum\obj\Debug\MagicSum.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\Tech-CSharp\MagicSum\obj\Debug\MagicSum.exe
+d:\documents\visual studio 2015\Projects\Tech-CSharp\MagicSum\obj\Debug\MagicSum.pdb

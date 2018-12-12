@@ -1,0 +1,6 @@
+d:\documents\visual studio 2015\Projects\Tech-CSharp\ArrayRotation\bin\Debug\ArrayRotation.exe.config
+d:\documents\visual studio 2015\Projects\Tech-CSharp\ArrayRotation\bin\Debug\ArrayRotation.exe
+d:\documents\visual studio 2015\Projects\Tech-CSharp\ArrayRotation\bin\Debug\ArrayRotation.pdb
+d:\documents\visual studio 2015\Projects\Tech-CSharp\ArrayRotation\obj\Debug\ArrayRotation.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\Tech-CSharp\ArrayRotation\obj\Debug\ArrayRotation.exe
+d:\documents\visual studio 2015\Projects\Tech-CSharp\ArrayRotation\obj\Debug\ArrayRotation.pdb
