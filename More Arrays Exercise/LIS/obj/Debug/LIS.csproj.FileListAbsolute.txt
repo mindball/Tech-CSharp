@@ -1,0 +1,6 @@
+d:\Documents\Visual Studio 2015\Projects\Tech-CSharp\LIS\bin\Debug\LIS.exe.config
+d:\Documents\Visual Studio 2015\Projects\Tech-CSharp\LIS\bin\Debug\LIS.exe
+d:\Documents\Visual Studio 2015\Projects\Tech-CSharp\LIS\bin\Debug\LIS.pdb
+d:\Documents\Visual Studio 2015\Projects\Tech-CSharp\LIS\obj\Debug\LIS.csprojResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2015\Projects\Tech-CSharp\LIS\obj\Debug\LIS.exe
+d:\Documents\Visual Studio 2015\Projects\Tech-CSharp\LIS\obj\Debug\LIS.pdb
