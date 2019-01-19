@@ -1,0 +1,6 @@
+d:\documents\visual studio 2015\Projects\ListsExercise\AnonymousThreat\bin\Debug\AnonymousThreat.exe.config
+d:\documents\visual studio 2015\Projects\ListsExercise\AnonymousThreat\bin\Debug\AnonymousThreat.exe
+d:\documents\visual studio 2015\Projects\ListsExercise\AnonymousThreat\bin\Debug\AnonymousThreat.pdb
+d:\documents\visual studio 2015\Projects\ListsExercise\AnonymousThreat\obj\Debug\AnonymousThreat.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\ListsExercise\AnonymousThreat\obj\Debug\AnonymousThreat.exe
+d:\documents\visual studio 2015\Projects\ListsExercise\AnonymousThreat\obj\Debug\AnonymousThreat.pdb

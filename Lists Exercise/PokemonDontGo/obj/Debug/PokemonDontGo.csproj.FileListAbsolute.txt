@@ -1,0 +1,6 @@
+d:\documents\visual studio 2015\Projects\ListsExercise\PokemonDontGo\bin\Debug\PokemonDontGo.exe.config
+d:\documents\visual studio 2015\Projects\ListsExercise\PokemonDontGo\bin\Debug\PokemonDontGo.exe
+d:\documents\visual studio 2015\Projects\ListsExercise\PokemonDontGo\bin\Debug\PokemonDontGo.pdb
+d:\documents\visual studio 2015\Projects\ListsExercise\PokemonDontGo\obj\Debug\PokemonDontGo.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\ListsExercise\PokemonDontGo\obj\Debug\PokemonDontGo.exe
+d:\documents\visual studio 2015\Projects\ListsExercise\PokemonDontGo\obj\Debug\PokemonDontGo.pdb
