@@ -1,0 +1,6 @@
+d:\documents\visual studio 2015\Projects\ObjectsAndClasses\VehicleCatalogue\bin\Debug\VehicleCatalogue.exe.config
+d:\documents\visual studio 2015\Projects\ObjectsAndClasses\VehicleCatalogue\bin\Debug\VehicleCatalogue.exe
+d:\documents\visual studio 2015\Projects\ObjectsAndClasses\VehicleCatalogue\bin\Debug\VehicleCatalogue.pdb
+d:\documents\visual studio 2015\Projects\ObjectsAndClasses\VehicleCatalogue\obj\Debug\VehicleCatalogue.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\ObjectsAndClasses\VehicleCatalogue\obj\Debug\VehicleCatalogue.exe
+d:\documents\visual studio 2015\Projects\ObjectsAndClasses\VehicleCatalogue\obj\Debug\VehicleCatalogue.pdb

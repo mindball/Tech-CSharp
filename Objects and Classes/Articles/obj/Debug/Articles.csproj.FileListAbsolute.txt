@@ -1,0 +1,5 @@
+d:\documents\visual studio 2015\Projects\ObjectsAndClasses\Articles\bin\Debug\Articles.exe.config
+d:\documents\visual studio 2015\Projects\ObjectsAndClasses\Articles\bin\Debug\Articles.exe
+d:\documents\visual studio 2015\Projects\ObjectsAndClasses\Articles\bin\Debug\Articles.pdb
+d:\documents\visual studio 2015\Projects\ObjectsAndClasses\Articles\obj\Debug\Articles.exe
+d:\documents\visual studio 2015\Projects\ObjectsAndClasses\Articles\obj\Debug\Articles.pdb

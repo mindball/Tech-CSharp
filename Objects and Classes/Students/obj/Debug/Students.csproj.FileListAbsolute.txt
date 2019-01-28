@@ -1,0 +1,6 @@
+d:\documents\visual studio 2015\Projects\ObjectsAndClasses\Students\bin\Debug\Students.exe.config
+d:\documents\visual studio 2015\Projects\ObjectsAndClasses\Students\obj\Debug\Students.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\ObjectsAndClasses\Students\bin\Debug\Students.exe
+d:\documents\visual studio 2015\Projects\ObjectsAndClasses\Students\bin\Debug\Students.pdb
+d:\documents\visual studio 2015\Projects\ObjectsAndClasses\Students\obj\Debug\Students.exe
+d:\documents\visual studio 2015\Projects\ObjectsAndClasses\Students\obj\Debug\Students.pdb

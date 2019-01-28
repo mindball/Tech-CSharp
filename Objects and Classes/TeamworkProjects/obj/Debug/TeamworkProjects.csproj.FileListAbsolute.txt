@@ -1,0 +1,6 @@
+d:\documents\visual studio 2015\Projects\ObjectsAndClasses\TeamworkProjects\bin\Debug\TeamworkProjects.exe.config
+d:\Documents\Visual Studio 2015\Projects\ObjectsAndClasses\TeamworkProjects\bin\Debug\TeamworkProjects.exe
+d:\Documents\Visual Studio 2015\Projects\ObjectsAndClasses\TeamworkProjects\bin\Debug\TeamworkProjects.pdb
+d:\Documents\Visual Studio 2015\Projects\ObjectsAndClasses\TeamworkProjects\obj\Debug\TeamworkProjects.csprojResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2015\Projects\ObjectsAndClasses\TeamworkProjects\obj\Debug\TeamworkProjects.exe
+d:\Documents\Visual Studio 2015\Projects\ObjectsAndClasses\TeamworkProjects\obj\Debug\TeamworkProjects.pdb

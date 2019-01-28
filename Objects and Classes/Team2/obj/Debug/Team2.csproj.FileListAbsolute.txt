@@ -1,0 +1,6 @@
+d:\Documents\Visual Studio 2015\Projects\ObjectsAndClasses\Team2\bin\Debug\Team2.exe.config
+d:\Documents\Visual Studio 2015\Projects\ObjectsAndClasses\Team2\bin\Debug\Team2.exe
+d:\Documents\Visual Studio 2015\Projects\ObjectsAndClasses\Team2\bin\Debug\Team2.pdb
+d:\Documents\Visual Studio 2015\Projects\ObjectsAndClasses\Team2\obj\Debug\Team2.csprojResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2015\Projects\ObjectsAndClasses\Team2\obj\Debug\Team2.exe
+d:\Documents\Visual Studio 2015\Projects\ObjectsAndClasses\Team2\obj\Debug\Team2.pdb
